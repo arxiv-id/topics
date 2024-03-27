@@ -1,0 +1,14 @@
+{
+  "topicName": "Knowledge Distillation",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": [
+      "Knowledge Distillation",
+],
+    "abstract": [
+      "Knowledge Distillation"
+    ]
+  }
+}
