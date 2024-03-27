@@ -1,0 +1,14 @@
+{
+  "topicName": "Diffusion",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": [
+      "Diffusion"
+    ],
+    "abstract": [
+      "Diffusion"
+    ]
+  }
+}
