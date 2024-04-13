@@ -1,0 +1,14 @@
+{
+  "topicName": "Synthetic Data",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": [
+      "Synthetic Data",
+],
+    "abstract": [
+      "Synthetic Data"
+    ]
+  }
+}
