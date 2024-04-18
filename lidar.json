@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Lidar"
-    ],
-    "abstract": [
-      "Lidar"
-    ]
+    "title": ["Lidar"],
+    "abstract": ["Lidar"]
   }
 }

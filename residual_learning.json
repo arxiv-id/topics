@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Residual Learning"
-    ],
-    "abstract": [
-      "Residual Learning"
-    ]
+    "title": ["Residual Learning"],
+    "abstract": ["Residual Learning"]
   }
 }

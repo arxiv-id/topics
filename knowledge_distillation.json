@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Knowledge Distillation",
-],
-    "abstract": [
-      "Knowledge Distillation"
-    ]
+    "title": ["Knowledge Distillation"],
+    "abstract": ["Knowledge Distillation"]
   }
 }

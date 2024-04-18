@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Jailbreak", "Jailbreaking"
-    ],
-    "abstract": [
-      "Jailbreak", "Jailbreaking"
-    ]
+    "title": ["Jailbreak", "Jailbreaking"],
+    "abstract": ["Jailbreak", "Jailbreaking"]
   }
 }

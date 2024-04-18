@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Diffusion"
-    ],
-    "abstract": [
-      "Diffusion"
-    ]
+    "title": ["Diffusion"],
+    "abstract": ["Diffusion"]
   }
 }

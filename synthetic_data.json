@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "synthetic data",
-],
-    "abstract": [
-      "synthetic data", "synthetic"
-    ]
+    "title": ["synthetic data"],
+    "abstract": ["synthetic data", "synthetic"]
   }
 }

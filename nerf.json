@@ -4,11 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": [
-      "Neural Radiance Fields", "NeRF", "Radiance Fields"
-    ],
-    "abstract": [
-      "Neural Radiance Fields", "NeRF", "Radiance Fields"
-    ]
+    "title": ["Neural Radiance Fields", "NeRF", "Radiance Fields"],
+    "abstract": ["Neural Radiance Fields", "NeRF", "Radiance Fields"]
   }
 }
