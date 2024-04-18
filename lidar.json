@@ -1,0 +1,14 @@
+{
+  "topicName": "Lidar",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": [
+      "Lidar"
+    ],
+    "abstract": [
+      "Lidar"
+    ]
+  }
+}
