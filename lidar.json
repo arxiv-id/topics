@@ -1,5 +1,5 @@
 {
-  "topicName": "Lidar",
+  "topicName": "LiDAR",
   "queryOperator": "AND",
   "filters": {
     "subjects": [],
