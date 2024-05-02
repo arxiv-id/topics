@@ -1,0 +1,10 @@
+{
+  "topicName": "Mixture of Experts",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["Mixture of Experts", "MoE"],
+    "abstract": ["Mixture of Experts", "MoE"]
+  }
+}
