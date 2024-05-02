@@ -1,0 +1,10 @@
+{
+  "topicName": "Monte Carlo",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["Monte Carlo"],
+    "abstract": ["Monte Carlo"]
+  }
+}
