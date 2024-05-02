@@ -1,0 +1,10 @@
+{
+  "topicName": "Self Supervised Learning",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["self-supervised learning","self-supervised","self supervised"],
+    "abstract": ["self-supervised learning","self-supervised","self supervised"],
+  }
+}
