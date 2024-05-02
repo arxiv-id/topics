@@ -4,7 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": ["Mixture of Experts", "MoE"],
+    "title": ["Mixture of Experts", "MoE", "language", "llm"],
     "abstract": ["Mixture of Experts", "MoE"]
   }
 }
