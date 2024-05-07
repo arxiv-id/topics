@@ -1,0 +1,10 @@
+{
+  "topicName": "RNNs",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["Recurrent", "RNN", "Recurrent Neural Networks", "Recurrent Neural"],
+    "abstract": ["Recurrent", "RNN", "Recurrent Neural Networks", "Recurrent Neural"]
+  }
+}
