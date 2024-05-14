@@ -1,0 +1,10 @@
+{
+  "topicName": "LSTM",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["LSTMs", "LSTM", "Long Short-Term Memory", "Long Short", "Memory"],
+    "abstract": ["LSTMs", "LSTM", "Long Short-Term Memory", "Long Short", "Memory"]
+  }
+}
