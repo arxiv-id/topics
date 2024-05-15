@@ -4,7 +4,7 @@
   "filters": {
     "subjects": [],
     "datasets": [],
-    "title": ["Benchmarking"],
+    "title": ["Benchmarking", "Benchmark"],
     "abstract": ["Language Models", "LLM", "LLMs", "Large Language Models"]
   }
 }
