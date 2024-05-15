@@ -1,0 +1,10 @@
+{
+  "topicName": "fMRI",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["fMRI", "Functional MRI", "MRI"],
+    "abstract":  ["fMRI", "Functional MRI", "MRI"],
+  }
+}
