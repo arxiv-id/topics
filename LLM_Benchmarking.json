@@ -1,0 +1,10 @@
+{
+  "topicName": "LLM Benchmarking",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["Benchmarking"],
+    "abstract": ["Language Models", "LLM", "LLMs", "Large Language Models"]
+  }
+}
