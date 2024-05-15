@@ -1,0 +1,10 @@
+{
+  "topicName": "Music Generation",
+  "queryOperator": "AND",
+  "filters": {
+    "subjects": [],
+    "datasets": [],
+    "title": ["Music Generation", "Generating Music", "Music Generator"],
+    "abstract": ["Music Generation", "Music", "Generation", "Generating Music", "Music Generator"]
+  }
+}
